@@ -8,7 +8,7 @@ Building a Real-Time AI Pose Estimation for GYM Tracker using Mediapipe.
 Clone the project
 
 ```bash
-  git clone https://github.com/brianadit24/AIGymTracker
+  git clone https://github.com/kartikbh6614/AIGymTracker
 ```
 
 Go to the project directory
